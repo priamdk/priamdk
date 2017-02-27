@@ -1,11 +1,15 @@
-# Jekyll Resume Theme
-
-# Site settings
+---
 title: priam | copenhagen
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: kennethlarsen@protonmail.com
 description: News, media and AI
 name: priam
 location: Copenhagen, DK
-
-# Build settings
 markdown: kramdown
