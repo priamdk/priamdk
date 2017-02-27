@@ -1,13 +1,7 @@
 <h3 class="section-title">What we do</h3>
 <dl class="experience">
     {% for job in site.data.jobs %}
-        <dt>
-            <p class="title">{{ job.title }}</p>
-            <p class="period">{{ job.period }}</p>
-        </dt><!--
-        --><dd>
-            <p>{{ job.description }}</p>
-        </dd>
+      <p>{{ job.description }}</p>
     {% endfor %}
 </dl>
 
