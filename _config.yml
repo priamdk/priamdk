@@ -1,17 +1,11 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
-email: email@domain.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+title: priam | copenhagen
+email: kennethlarsen@protonmail.com
+description: News, media and AI
 name: priam
-job: front end engineer
 location: Copenhagen, DK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
 
 # Build settings
 markdown: kramdown
