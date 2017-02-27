@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  jobs:
+    title: jobs
+    output: true
 email: kennethlarsen@protonmail.com
 description: News, media and AI
 name: priam
