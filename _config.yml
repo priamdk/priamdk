@@ -1,5 +1,5 @@
 ---
-title: priam | copenhagen
+title: Priam | copenhagen
 timezone: UTC
 collections:
   posts:
@@ -13,6 +13,6 @@ collections:
     output: true
 email: kennethlarsen@protonmail.com
 description: News, media and AI
-name: priam
+name: Priam
 location: Copenhagen, DK
 markdown: kramdown
